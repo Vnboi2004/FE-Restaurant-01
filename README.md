@@ -1,5 +1,5 @@
 
-# Website Coffee seri 01
+# Website Restaurant 01
 
 No responsive design for tablets and mobile yet, I will update it as soon as possible
 
